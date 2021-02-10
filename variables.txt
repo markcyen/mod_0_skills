@@ -7,3 +7,4 @@ sum = num_3 + numb_9
 animals = ['elephant', 'wallaby', 'whale']
 animals.shift
 puts famous_person.length
+(redo commit message)
