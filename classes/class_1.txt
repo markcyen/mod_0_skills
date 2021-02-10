@@ -1,0 +1,16 @@
+class MathClass
+
+Attributes
+----------
+teacher (string)
+in_person (boolean)
+current_number_of_students (integer)
+absent (integer)
+students (array)
+
+Methods
+-------
+change_teacher (updates teacher for this MathClass)
+go_virtual (sets in_person as false)
+add_student (adds new student to students array)
+count_students (updates current_number_of_students, to include additional student from students array, minus those who are absent)
