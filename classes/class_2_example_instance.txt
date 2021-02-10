@@ -1,0 +1,17 @@
+class EastAsiaHistory
+
+Attributes
+----------
+history_topic = "Ming Dynasty"
+textbook = "Literary Art from the Ming Dynasty"
+textbook_read = false
+graded_essays = 8
+total_grades_added = 760
+other_readings = ['History of East Asia', 'Feudal System of Asia', 'Notable Leaders in the Ming Dynasty']
+
+Methods
+-------
+calculate_average_grade: 760 / 8 = 95
+finished_reading: textbook_read = true
+change_textbook: textbook = "Notable Leaders of the Ming Dynasty"
+add_reading: other_readings = ['History of East Asia', 'Feudal System of Asia', 'Notable Leaders of the Ming Dynasty', 'Ming Dynasty Art']
