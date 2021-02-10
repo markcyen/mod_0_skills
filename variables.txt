@@ -1,0 +1,9 @@
+famous_person = "Robert Frost"
+is_active = false
+famous_person = "Abraham Lincoln"
+num_3 = 3
+num_9 = 9
+sum = num_3 + numb_9
+animals = ['elephant', 'wallaby', 'whale']
+animals.shift
+puts famous_person.length
