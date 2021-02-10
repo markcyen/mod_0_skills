@@ -1,0 +1,16 @@
+instance Geometry
+
+Attributes
+----------
+teacher = "Mr. Smith"
+in_person = true
+current_number_of_students = 7
+absent = 2
+students = ['Lori', 'Jeff', 'Amanda', 'Sarah', 'Mike', 'Melanie', 'Jamie']
+
+Methods
+-------
+change_teacher: teacher = "Ms. Doe"
+go_virtual: in_person = false
+add_student: students = ['Lori', 'Jeff', 'Amanda', 'Sarah', 'Mike', 'Melanie', 'Jamie', 'George']
+count_students: current_number_of_students = 6
